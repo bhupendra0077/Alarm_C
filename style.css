@@ -47,8 +47,6 @@ body {
 .logo {
     width: 30px;
     margin: auto;
-
-    /* adjust the width as needed */
     height: auto;
 }
 
@@ -132,10 +130,8 @@ select {
 .main-container {
     min-height: 100vh;
     align-items: center;
-    justify-content: center;
-    background-image: url(media/clock.jpg);
+    justify-content: center;    
     height: 100%;
-    /*background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);*/
 }
 
 .clock-container {
